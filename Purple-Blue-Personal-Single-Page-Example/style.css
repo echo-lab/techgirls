@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e3c5bb;
+  }
+  
+  .header {
+    background-color: #86bbd8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1,
+  h2 {
+    color: #712f79;
+    margin-bottom: 10px;
+  }
+  
+  h1, h2:hover {
+    color: #976391;
+  }
+
+  p {
+    color: #000500;
+    line-height: 1.5;
+  }
+  
+  .main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-me,
+  .skills,
+  .projects,
+  .contact {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: circle;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: #712f79;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #976391;
+  }
+  
+  .profile-pic {
+    display: block;
+    margin: 0 auto 1em;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
