@@ -1,10 +1,11 @@
 # TechGirls Web Programming Examples
 
 ## Wesbite Examples to Remix
+
 ### Personal Portfolio
--   [Black and White Multi-Page](/Black-White-Personal-Multi-Page-Example)
--   [Pink Single Page](/Pink-Personal-Single-Page-Example)
--   [Blue and Purple Single Page](/Purple-Blue-Personal-Single-Page-Example)
+-   Jane Doe: [Black and White Multi-Page](/Black-White-Personal-Multi-Page-Example)
+-   Andrea Johnson: [Pink Single Page](/Pink-Personal-Single-Page-Example)
+-   Elena Smith: [Blue and Purple Single Page](/Purple-Blue-Personal-Single-Page-Example)
 
 ### Topic Introduction
 -   Hometown Introduction: [Green and Gold Multi-Page](/Green-Gold-Hometown-Intro-Multi-Page-Example)
